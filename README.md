@@ -1,6 +1,6 @@
 # Vue 3 + Vite
 
-校园信息系统
+999
 
 ## Recommended IDE Setup
 
